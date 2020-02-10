@@ -1,0 +1,2 @@
+# minirepo-chart
+Minirepo Helmchart
